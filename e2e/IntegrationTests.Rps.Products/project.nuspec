@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+	<metadata>
+		<id>$nugetpackageid$-e2e</id>
+    <version>$semanticversion$</version>
+    <authors>RPS Development Team</authors>
+    <projectUrl>http://rpsushc1ww09vp/DevWiki/wiki/10/rps-dev-projects-page</projectUrl>
+    <iconUrl>http://rpsushc1ww09vp/DevWiki/Attachments/nugetlogo.png</iconUrl>
+    <description>E2E Tests for the RPS Products service</description>
+	</metadata>
+</package>
